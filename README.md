@@ -1,1 +1,1 @@
-# 3100-PJ-TUT-3
+# CSCI3100 PJ Tutorial 3 - Client-side Technologies
